@@ -19,7 +19,7 @@ package testLeetCode;
 
 public class Test4 {
     public static void main(String args[]){
-        //hhh
+        //hhhasdad
         System.out.println("result :"+revert(10));
 
     }
