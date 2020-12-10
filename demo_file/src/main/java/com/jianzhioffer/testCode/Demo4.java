@@ -21,6 +21,7 @@ public class Demo4 {
         System.out.println("test C!");
 
         System.out.println("test C!");
+        System.out.println("test D!");
 
         int[] result = reversePrint(head);
         for(int value : result){
