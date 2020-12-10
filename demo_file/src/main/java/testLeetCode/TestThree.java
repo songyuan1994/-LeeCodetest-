@@ -1,6 +1,5 @@
 package testLeetCode;
 
-import org.apache.commons.lang.IllegalClassException;
 
 public class TestThree {
 	public static Long maxNum = 2147483647l;
