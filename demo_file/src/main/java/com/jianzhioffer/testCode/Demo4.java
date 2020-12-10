@@ -16,12 +16,7 @@ public class Demo4 {
         node1.next = node2;
         node2.next = node3;
         node3.next = node4;
-        System.out.println("This is a test!!");
-        System.out.println("This is a testb!!");
-        System.out.println("test C!");
-
-        System.out.println("test C!");
-        System.out.println("test D!");
+        System.out.println("rebase1");
 
         int[] result = reversePrint(head);
         for(int value : result){
