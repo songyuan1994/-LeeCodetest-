@@ -17,6 +17,7 @@ public class Demo4 {
         node2.next = node3;
         node3.next = node4;
         System.out.println("rebase1");
+        System.out.println("rebase2");
 
         int[] result = reversePrint(head);
         for(int value : result){
