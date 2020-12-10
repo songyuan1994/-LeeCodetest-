@@ -18,6 +18,7 @@ public class Demo4 {
         node3.next = node4;
         System.out.println("This is a test!!");
         System.out.println("This is a testb!!");
+        System.out.println("test C!");
         int[] result = reversePrint(head);
         for(int value : result){
             System.out.println(value);
